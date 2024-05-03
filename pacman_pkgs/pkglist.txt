@@ -1,4 +1,5 @@
 aircrack-ng
+alsa-utils
 appstream-glib
 baobab
 base
@@ -6,6 +7,7 @@ base-devel
 bluez-utils
 cmake
 cowsay
+dnf
 dpkg
 efibootmgr
 emacs
@@ -53,6 +55,7 @@ gnome-user-share
 gnome-weather
 grilo-plugins
 gst-plugin-pipewire
+gst-plugins-ugly
 gvfs
 gvfs-afc
 gvfs-goa
@@ -95,11 +98,16 @@ npm
 orca
 parole
 pavucontrol
+php
+php-apache
+php-cgi
+php-legacy
 picom
 pipewire
 pipewire-alsa
 pipewire-jack
 pipewire-pulse
+python-flask
 python-pip
 python-pipenv
 redshift
@@ -142,6 +150,7 @@ xf86-video-nouveau
 xf86-video-vmware
 xfburn
 xorg-server
+yarn
 yelp
 zsh
 zsh-completions
